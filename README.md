@@ -1,2 +1,2 @@
-# Go-Toagther
+# Go-Togather
 Android application for auto rickshaw 
